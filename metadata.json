@@ -1,0 +1,7 @@
+{
+  "name": "NutriVision AI",
+  "description": "Dashboard de nutrição inteligente com análise de alimentos por IA, rastreamento de macros e receitas fitness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
